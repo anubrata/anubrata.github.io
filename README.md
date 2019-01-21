@@ -38,7 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## About Me
 
-I am Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) in the University of Texas at Austin. My faculty advisor is [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/). I am a part of the [Information Retreival and Crowdsourcing Lab](http://ir.ischool.utexas.edu/). Prior to joining the Ph.D. program, I worked as Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as as Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/).
+I am Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) in the University of Texas at Austin. My faculty advisor is [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/). I am a part of the [Information Retreival and Crowdsourcing Lab](http://ir.ischool.utexas.edu/). Prior to joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). 
+
+I recieved my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
 
 ## Research
 
