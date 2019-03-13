@@ -11,3 +11,13 @@ My research interest is in the field of Artifical Intelligence. My main research
 ## News
 
 I will be working with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
+
+## Publications
+
+([DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Anubrata) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
+
+* 2016
+  * **Das, Anubrata**, Neeratyoy Mallik, Somprakash Bandyopadhyay, Sipra Das Bit, and Jayanta Basak. "Interactive information crowdsourcing for disaster management using SMS and Twitter: A research prototype." In 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), pp. 1-6. IEEE, 2016.
+  
+* 2014
+  * **Das, Anubrata**, Moumita Roy, Soumi Dutta, Saptarshi Ghosh, and Asit Kumar Das. "Predicting trends in the twitter social network: A machine learning approach." In International Conference on Swarm, Evolutionary, and Memetic Computing, pp. 570-581. Springer, Cham, 2014.
