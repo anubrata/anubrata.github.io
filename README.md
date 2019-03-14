@@ -6,7 +6,7 @@ I received my Bachelor of Engineering Degree in Computer Science and Technology 
 
 ## Research
 
-My primary research focus is on Fairness and Transparency in Information Retrieval systems. I am also interested in Human-in-the-loop systems, Human-Computer Interaction, and Social Computing. In a broader context, I am interested in Artificial Intelligence and the use of it for social good.
+My research interest is in Information Retrieval primarily focusing on Fairness and Transparency in Information Retrieval systems. I am also interested in Human-in-the-loop systems, Human-Computer Interaction, and Social Computing. 
 
 ## News
 
