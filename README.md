@@ -17,7 +17,7 @@ I will be working with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weiku
 ([DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Anubrata) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 
 * 2016
-  * **Das, Anubrata**, Neeratyoy Mallik, Somprakash Bandyopadhyay, Sipra Das Bit, and Jayanta Basak. "Interactive information crowdsourcing for disaster management using SMS and Twitter: A research prototype." In 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), pp. 1-6. IEEE, 2016.
+  * **Das, Anubrata**, Neeratyoy Mallik, Somprakash Bandyopadhyay, Sipra Das Bit, and Jayanta Basak. "Interactive information crowdsourcing for disaster management using SMS and Twitter: A research prototype." In 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), pp. 1-6. IEEE, 2016. [pdf](https://www.iimcal.ac.in/sites/all/files/pdfs/6-casper-iimc.pdf)
   
 * 2014
-  * **Das, Anubrata**, Moumita Roy, Soumi Dutta, Saptarshi Ghosh, and Asit Kumar Das. "Predicting trends in the twitter social network: A machine learning approach." In International Conference on Swarm, Evolutionary, and Memetic Computing, pp. 570-581. Springer, Cham, 2014.
+  * **Das, Anubrata**, Moumita Roy, Soumi Dutta, Saptarshi Ghosh, and Asit Kumar Das. "Predicting trends in the twitter social network: A machine learning approach." In International Conference on Swarm, Evolutionary, and Memetic Computing, pp. 570-581. Springer, Cham, 2014. [pdf](https://www.researchgate.net/profile/Soumi_Dutta/publication/294482813_Predicting_Trends_in_the_Twitter_Social_Network_A_Machine_Learning_Approach/links/5b14c6bc0f7e9b498108eebe/Predicting-Trends-in-the-Twitter-Social-Network-A-Machine-Learning-Approach.pdf) 
