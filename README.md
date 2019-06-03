@@ -10,7 +10,11 @@ My research interest is in Information Retrieval primarily focusing on Fairness 
 
 ## News
 
-I will be working with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
+* Paper on Communicating User Bias in Fact-Checking is accepted in SIGIR Workshop on [FACTS-IR](https://fate-events.github.io/facts-ir/).
+
+* Paper on bias in visual question answering datasets is accepted in [ASIS&T '19](https://www.asist.org/am19/)
+
+* I will be working with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
 
 ## Publications
 
