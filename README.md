@@ -6,7 +6,14 @@ I received my Bachelor of Engineering Degree in Computer Science and Technology 
 
 ## Research
 
-My research interest is in Information Retrieval primarily focusing on Fairness and Transparency in Information Retrieval systems. I am also interested in Human-in-the-loop systems, Human-Computer Interaction, and Social Computing. 
+My general area of interests are Information Retreival, Natural Language Processing and Human Computation. 
+
+My broad research interest is in Fairness, Accountability and Transparency of Information access systems. Information Access systems play an increasing role in deciding what information to provide and how that information is presented. As a consequence, information access systems have the power to significantly shape user beliefs. My research considers three aspects of information access systems:
+
+1. How do we develop algorithms to deliver unbiased contents?
+2. How can we design interfaces for an unbiased presentation of these contents?
+3. How can we measure what it means to be fair and how well these algorithms and interfaces achieve it?
+
 
 ## News
 
@@ -19,6 +26,10 @@ My research interest is in Information Retrieval primarily focusing on Fairness 
 ## Publications
 
 ([DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Anubrata) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
+* 2019 
+  * **Das, Anubrata**, Kunjan Mehta, and Matthew Lease. **CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking.** arXiv preprint arXiv:1907.03718 (2019). [FACTS-IR Workshop](https://fate-events.github.io/facts-ir/), SIGIR 2019. [[pdf](https://arxiv.org/pdf/1907.03718.pdf)|[slides](https://docs.google.com/presentation/d/17Px--Lp50Os95QVfuH6auGzdaZReM-CWjuGnDJVQDG8/edit?usp=sharing)] *This is a working paper and we will update the paper with some details soon*
+  * **Das, Anubrata** and Matthew Lease. **A Conceptual Framework for Evaluating Fairness in Search.** arXiv preprint arXiv:	arXiv:1907.09328 (2019). [[pdf](https://arxiv.org/pdf/1907.09328.pdf)]
+
 
 * 2016
   * **Das, Anubrata**, Neeratyoy Mallik, Somprakash Bandyopadhyay, Sipra Das Bit, and Jayanta Basak. **Interactive information crowdsourcing for disaster management using SMS and Twitter: A research prototype.** In 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops) [[pdf](https://www.iimcal.ac.in/sites/all/files/pdfs/6-casper-iimc.pdf)]
