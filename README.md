@@ -14,6 +14,8 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 2. How can we design interfaces for an unbiased presentation of these contents?
 3. How can we measure what it means to be fair and how well these algorithms and interfaces achieve it?
 
+## FAT<sup>*</sup> Reading Group
+I help to organize a FAT<sup>\*</sup> Reading group where we get togehter on a bi-weekly basis to discuss recent literature in the FAT<sup>\*</sup> problem space. More information [here](https://docs.google.com/document/d/1lmv4UtqeyjO0Mq5lf886cAZI9CEUjQe9o9zWJa5XxaA/edit).
 
 ## News
 
