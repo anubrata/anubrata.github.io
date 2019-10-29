@@ -29,6 +29,7 @@ I help organize a FAT<sup>\*</sup> Reading group where we discuss recent literat
 
 ([DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Anubrata) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 * 2019 
+  * **Das, Anubrata**, Samreen Anjum, and Danna Gurari. **Dataset bias: A case study for visual question answering.** Proceedings of the Association for Information Science and Technology 56, no. 1 (2019): 58-67.
   * **Das, Anubrata**, Kunjan Mehta, and Matthew Lease. **CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking.** arXiv preprint arXiv:1907.03718 (2019). [FACTS-IR Workshop](https://fate-events.github.io/facts-ir/), SIGIR 2019. [[pdf](https://arxiv.org/pdf/1907.03718.pdf), [slides](https://docs.google.com/presentation/d/17Px--Lp50Os95QVfuH6auGzdaZReM-CWjuGnDJVQDG8/edit?usp=sharing)] *This is a working paper and we will update the paper with some details soon*
   * **Das, Anubrata** and Matthew Lease. **A Conceptual Framework for Evaluating Fairness in Search.** arXiv preprint arXiv:	arXiv:1907.09328 (2019). [[pdf](https://arxiv.org/pdf/1907.09328.pdf)]
 
