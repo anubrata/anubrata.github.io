@@ -18,8 +18,9 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 I help organize a FAT<sup>\*</sup> Reading group where we discuss recent literature in that problem space. More information [here](https://docs.google.com/document/d/1lmv4UtqeyjO0Mq5lf886cAZI9CEUjQe9o9zWJa5XxaA/edit).
 
 ## News
+* Paper on Communicating User Bias in Fact-Checking is accepted in SIGIR Workshop on [FACTS-IR](https://fate-events.github.io/facts-ir/)
 
-* Paper on Communicating User Bias in Fact-Checking is accepted in SIGIR Workshop on [FACTS-IR](https://fate-events.github.io/facts-ir/).
+* SIGIR Forum Article on [research agenda in FACTS-IR](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/roegiest-2019-facts-ir.pdf)
 
 * Paper on bias in visual question answering datasets is accepted in [ASIS&T '19](https://www.asist.org/am19/)
 
