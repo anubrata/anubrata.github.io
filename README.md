@@ -31,22 +31,22 @@ I help organize a FAT<sup>\*</sup> Reading group where we discuss recent literat
 ([DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Anubrata) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 
 * [Dataset bias: A case study for visual question answering](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.7) 
-<br />Anubrata Das, Samreen Anjum and Danna Gurari
+<br />**Anubrata Das**, Samreen Anjum and Danna Gurari
 <br />Proceedings of the Association for Information Science and Technology 56, no. 1 (2019): 58-67.
 
 * [CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking](https://arxiv.org/pdf/1907.03718.pdf)
-<br />Anubrata Das, Kunjan Mehta, and Matthew Lease
+<br />**Anubrata Das**, Kunjan Mehta, and Matthew Lease
 <br />[FACTS-IR Workshop](https://fate-events.github.io/facts-ir/), SIGIR 2019. [[slides](https://docs.google.com/presentation/d/17Px--Lp50Os95QVfuH6auGzdaZReM-CWjuGnDJVQDG8/edit?usp=sharing)]
 <br />*This is a working paper and we will update the paper with some details soon*
 
 * [A Conceptual Framework for Evaluating Fairness in Search](https://arxiv.org/pdf/1907.09328.pdf)
-<br />Anubrata Das and Matthew Lease
+<br />**Anubrata Das** and Matthew Lease
 <br />arXiv preprint arXiv:	arXiv:1907.09328 (2019)
 
 * [Interactive information crowdsourcing for disaster management using SMS and Twitter: A research prototype](https://www.iimcal.ac.in/sites/all/files/pdfs/6-casper-iimc.pdf)
-<br />Anubrata Das, Neeratyoy Mallik, Somprakash Bandyopadhyay, Sipra Das Bit, and Jayanta Basak
+<br />**Anubrata Das**, Neeratyoy Mallik, Somprakash Bandyopadhyay, Sipra Das Bit, and Jayanta Basak
 <br />IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops) 2016
  
  * [Predicting trends in the twitter social network: A machine learning approach](https://www.researchgate.net/profile/Soumi_Dutta/publication/294482813_Predicting_Trends_in_the_Twitter_Social_Network_A_Machine_Learning_Approach/links/5b14c6bc0f7e9b498108eebe/Predicting-Trends-in-the-Twitter-Social-Network-A-Machine-Learning-Approach.pdf)
-<br />Anubrata Das, Moumita Roy, Soumi Dutta, Saptarshi Ghosh, and Asit Kumar Das
+<br />**Anubrata Das**, Moumita Roy, Soumi Dutta, Saptarshi Ghosh, and Asit Kumar Das
 <br />In International Conference on Swarm, Evolutionary, and Memetic Computing, Springer, Cham, 2014.
