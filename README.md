@@ -1,5 +1,3 @@
-## About Me
-
 I am a Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) at the University of Texas at Austin. My faculty advisor is [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/). I am a part of the [Information Retrieval and Crowdsourcing Lab](http://ir.ischool.utexas.edu/). Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). 
 
 I received my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
