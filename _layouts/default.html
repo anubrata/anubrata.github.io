@@ -20,7 +20,6 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-	<h3><a href="">{{ site.email | default: site.github.repository_name }}</a></h3>
 	<!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
 	      
 
@@ -36,7 +35,8 @@
 	</p>
 	    
 	<p class="view">
-		<strong><a href="{{site.facts}}">FAT* Reading Group</a></strong> 
+		<h3>{{ site.email | default: site.github.repository_name }}</h3>
+<!-- 		<strong><a href="{{site.facts}}">FAT* Reading Group</a></strong>  -->
 	</p>
         <!--{% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
