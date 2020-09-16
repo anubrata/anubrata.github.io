@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote-theme: alshedivat/al-folio
 title: "Anubrata Das"
 subtitle: "অনুব্রত দাস"
 author: "Anubrata"
