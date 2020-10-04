@@ -24,9 +24,14 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 
 * I will be working with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
 
+## Talks
+
+* Content Moderation and Worker Well-Being. Presented at TxHCI - A seminar organized by HCI Researchers across universities in Texas. [Video](https://youtu.be/4ZIiGIkYdNA)
+
+
 ## Publications
 
-([DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Anubrata) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 
 * [Fast, Accurate, and Healthier: Interactive Blurring Helps Moderators Reduce Exposure to Harmful Content](https://www.ischool.utexas.edu/~ml/papers/das_hcomp20.pdf)
 <br />**Anubrata Das**, Brandon Dang, and Matthew Lease
