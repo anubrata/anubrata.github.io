@@ -28,6 +28,10 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 
 ([DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Anubrata) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 
+* [Fast, Accurate, and Healthier: Interactive Blurring Helps Moderators Reduce Exposure to Harmful Content](https://www.ischool.utexas.edu/~ml/papers/das_hcomp20.pdf)
+<br />**Anubrata Das**, Brandon Dang, and Matthew Lease
+<br /> To Appear in AAAI Conferenece on Human Computation, 2020 
+
 * [Dataset bias: A case study for visual question answering](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.7) 
 <br />**Anubrata Das**, Samreen Anjum and Danna Gurari
 <br />Proceedings of the Association for Information Science and Technology 56, no. 1 (2019): 58-67.
