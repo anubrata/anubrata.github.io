@@ -29,13 +29,15 @@
 	<p class="view">
 <!-- 		<strong><a href="{{site.about}}">About</a></strong> -->
 		<br /><strong><a href="{{site.research}}">Research</a></strong>
-		<br /><strong><a href="{{site.publication}}">Publication</a></strong> 
-		<br /><strong><a href="">News</a></strong> 
+    <br /><strong><a href="{{site.news}}">News</a></strong> 
+    <br /><strong><a href="{{site.publication}}">Publication</a></strong> 
+		<br /><strong><a href="{{site.talks}}">Talks</a></strong> 
 		<br /><strong><a href="assets/anubrata-CV.pdf">CV</a></strong> 
 	</p>
 	    
 	<p class="view">
-	      <p>email: <u>{{ site.email | default: site.github.repository_name }}</u></p>
+        <p>email: <u>{{ site.email | default: site.github.repository_name }}</u></p>
+        <p>twitter: <u>{{ site.twitter | default: site.github.repository_name }}</u></p>
 <!-- 		<strong><a href="{{site.facts}}">FAT* Reading Group</a></strong>  -->
 	</p>
         <!--{% if site.github.is_user_page %}

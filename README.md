@@ -33,7 +33,7 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
+([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 
 * [Fast, Accurate, and Healthier: Interactive Blurring Helps Moderators Reduce Exposure to Harmful Content](https://www.ischool.utexas.edu/~ml/papers/das_hcomp20.pdf)
 <br />**Anubrata Das**, Brandon Dang, and Matthew Lease
