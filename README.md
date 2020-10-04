@@ -16,6 +16,8 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 
 
 ## News
+* Paper on Content Moderation and Worker Well-Being is accepted in [AAAI HCOMP 2020](https://www.humancomputation.com/)
+
 * Paper on Communicating User Bias in Fact-Checking is accepted in SIGIR Workshop on [FACTS-IR](https://fate-events.github.io/facts-ir/)
 
 * SIGIR Forum Article on [research agenda in FACTS-IR](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/roegiest-2019-facts-ir.pdf)
@@ -26,7 +28,7 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 
 ## Talks
 
-* Content Moderation and Worker Well-Being. Presented at TxHCI - A seminar organized by HCI Researchers across universities in Texas. [Video](https://youtu.be/4ZIiGIkYdNA)
+* Content Moderation and Worker Well-Being. Presented at TxHCI - A seminar organized by HCI Researchers across universities in Texas. [[Video]](https://youtu.be/4ZIiGIkYdNA)
 
 
 ## Publications
