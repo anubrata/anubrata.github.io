@@ -24,7 +24,7 @@ My broad research interest is in Fairness, Accountability and Transparency of In
 
 * Paper on bias in visual question answering datasets is accepted in [ASIS&T '19](https://www.asist.org/am19/)
 
-* I will be working with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
+* Internship with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
 
 ## Talks
 
