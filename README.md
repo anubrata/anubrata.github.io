@@ -6,14 +6,9 @@ I received my Bachelor of Engineering Degree in Computer Science and Technology 
 
 ## Research
 
-My general area of interests are Information Retreival, Natural Language Processing and Human Computation. 
+![Research Intersets](/aassets/images/Research.png)
 
-My broad research interest is in Fairness, Accountability and Transparency of Information access systems. Information Access systems play an increasing role in deciding what information to provide and how that information is presented. As a consequence, information access systems have the power to significantly shape user beliefs. My research considers three aspects of information access systems:
-
-1. How do we develop algorithms to deliver unbiased contents?
-2. How can we design interfaces for an unbiased presentation of these contents?
-3. How can we measure what it means to be fair and how well these algorithms and interfaces achieve it?
-
+I am interested in the intersection of Machine Learning, Information Access, and Human-Computer Interaction to build tools that facilitate human-AI partnership. My primary research focuses is based on the broad questions: How explainable AI can help in the human decision-making process where the AI is not perfect? How do we collect data, build such systems and evaluate them? The application area I am interested in is moderating harmful content online. Such harm can be caused by misinformation, hate speech, disruptive or obscene content, and unfairness in information access algorithms.
 
 ## News
 * Paper on Content Moderation and Worker Well-Being is accepted in [AAAI HCOMP 2020](https://www.humancomputation.com/)
