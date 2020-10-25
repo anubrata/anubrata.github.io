@@ -23,9 +23,11 @@ I am interested in the intersection of Machine Learning, Information Access, and
 
 ## Talks
 
-* Invited Talk at Amazon Research on Design Interventions for Content Moderator Well-Being. October 2020
-
-* Content Moderation and Worker Well-Being. Presented at TxHCI - A seminar organized by HCI Researchers across universities in Texas. [[Video]](https://youtu.be/4ZIiGIkYdNA), September 2020
+* Commerical Content Moderation and Worker Well-Being. [[Video]](https://youtu.be/4ZIiGIkYdNA)
+    * TxHCI - A seminar organized by HCI Researchers across universities in Texas, 10/02/2020
+    * Invited talk - Amazon AWS Science, 10/14/2020
+    * Invited talk - Amazon Human-in-the-loop (HILL) services team, 10/23/2020
+    * [AAAI HCOMP 2020](https://www.humancomputation.com/)
 
 
 ## Publications
