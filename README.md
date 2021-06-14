@@ -34,6 +34,11 @@ I am interested in the intersection of Machine Learning, Information Access, and
 
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 
+* [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779)
+<br />Michael D. Ekstrand, **Anubrata Das**, Robin Bruke, Fernando Diaz
+<br />Under review for [Foundations and Trends in Information Retrieval](https://www.nowpublishers.com/INR), 2021
+
+
 * [Fast, Accurate, and Healthier: Interactive Blurring Helps Moderators Reduce Exposure to Harmful Content](https://www.ischool.utexas.edu/~ml/papers/das_hcomp20.pdf)
 <br />**Anubrata Das**, Brandon Dang, and Matthew Lease
 <br /> To Appear in AAAI Conferenece on Human Computation, 2020 
