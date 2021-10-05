@@ -8,7 +8,7 @@ I received my Bachelor of Engineering Degree in Computer Science and Technology 
 
 ![Research Intersets](/assets/images/Research.png)
 
-I am interested in the intersection of Machine Learning, Information Access, and Human-Computer Interaction. I research in building algorithms and tools that facilitate human-AI partnership. My primary research focuses is based on the broad questions: How explainable AI can help in the human decision-making process where the AI is not perfect? How do we collect data, build such systems and evaluate them? The application area I am interested in is moderating harmful content online. Such harm includes but not limited to misinformation, hate speech, disruptive or obscene content, and unfairness in information access algorithms.
+I am interested in the intersection of Natural Language Processing, Information Access, and Human-Computer Interaction. I research in building algorithms and tools that facilitate human-AI partnership. My primary research focuses is based on the broad questions: How explainable AI can help in the human decision-making process where the AI is not perfect? How do we collect data, build such systems and evaluate them? The application area I am interested in is moderating harmful content online. Such harm includes but not limited to misinformation, hate speech, disruptive or obscene content, and unfairness in information access algorithms.
 
 ## News
 * Paper on Content Moderation and Worker Well-Being is accepted in [AAAI HCOMP 2020](https://www.humancomputation.com/)
