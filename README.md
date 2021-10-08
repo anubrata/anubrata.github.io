@@ -30,9 +30,9 @@ I am interested in the intersection of Natural Language Processing, Information 
     * [AAAI HCOMP 2020](https://www.humancomputation.com/)
 
 
-## Publications
+## Selected Publications
 
-([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
+Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 
 * [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779)
 <br />Michael D. Ekstrand, **Anubrata Das**, Robin Bruke, Fernando Diaz
