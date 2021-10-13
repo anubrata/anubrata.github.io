@@ -23,11 +23,15 @@ I am interested in the intersection of Natural Language Processing, Information 
 
 ## Talks
 
+* ExFacto: An Explainable Fact-Checking Tool [[slides]](https://docs.google.com/presentation/d/1cjGGAtEwjrf8KXWgwJtOqoJGd3WoXjcUGzC49YL28v4/edit?usp=sharing)
+   * The Knight Research Network (KRN) Demo Day at [[Center for Informed Democracy & Social - cybersecurity (IDeaS)]](https://www.cmu.edu/ideas-social-cybersecurity/events/krn-tool-demo.html) at Carnegie Mellon University, 10/13/2021
+
 * Commerical Content Moderation and Worker Well-Being. [[Video]](https://youtu.be/4ZIiGIkYdNA)
     * TxHCI - A seminar organized by HCI Researchers across universities in Texas, 10/02/2020
     * Invited talk - Amazon AWS Science, 10/14/2020
     * Invited talk - Amazon Human-in-the-loop (HILL) services team, 10/23/2020
     * [AAAI HCOMP 2020](https://www.humancomputation.com/)
+
 
 
 ## Selected Publications
