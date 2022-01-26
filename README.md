@@ -37,6 +37,9 @@ I am interested in the intersection of Natural Language Processing, Information 
 ## Selected Publications
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
+* [The Effects of Interactive AI Design on User Behavior: An Eye-tracking Study of Fact-checking COVID-19 Claims](https://utexas.app.box.com/v/shi-chiir2022)
+<br /> Li Shi, Nilavra Bhattacharya, **Anubrata Das**, Matthew Lease, and Jacek Gwizdka. 
+<br /> In Proceedings of the 7th ACM SIGIR Conference on Human Information, Interaction and Retrieval (CHIIR), 2022.
 
 * [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779)
 <br />Michael D. Ekstrand, **Anubrata Das**, Robin Bruke, Fernando Diaz
