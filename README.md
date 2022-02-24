@@ -11,6 +11,11 @@ I received my Bachelor of Engineering Degree in Computer Science and Technology 
 I am interested in the intersection of Natural Language Processing, Information Access, and Human-Computer Interaction. I research in building algorithms and tools that facilitate human-AI partnership. My primary research focuses is based on the broad questions: How explainable AI can help in the human decision-making process where the AI is not perfect? How do we collect data, build such systems and evaluate them? The application area I am interested in is moderating harmful content online. Such harm includes but not limited to misinformation, hate speech, disruptive or obscene content, and unfairness in information access algorithms.
 
 ## News
+
+* Paper on Explaining Black-box NLP models with Case-based reasoning is accepted in [ACL 2022](https://www.2022.aclweb.org/)
+
+* Paper on Interactive AI for Fact-Checking is accepted in [ACM CHIIR 2022](https://ai.ur.de/chiir2022/)
+
 * Paper on Content Moderation and Worker Well-Being is accepted in [AAAI HCOMP 2020](https://www.humancomputation.com/)
 
 * Paper on Communicating User Bias in Fact-Checking is accepted in SIGIR Workshop on [FACTS-IR](https://fate-events.github.io/facts-ir/)
@@ -37,7 +42,13 @@ I am interested in the intersection of Natural Language Processing, Information 
 ## Selected Publications
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
-* [The Effects of Interactive AI Design on User Behavior: An Eye-tracking Study of Fact-checking COVID-19 Claims](https://utexas.app.box.com/v/shi-chiir2022)
+(\* denotes equal contribution)
+
+* [ProtoTexNL: Explaining Model Decisions with Prototype Layers](https://utexas.box.com/v/das-acl-2022)
+<br /> **Anubrata Das**\*, Chitrank Gupta\*, Venelin Kovatchev, Matthew Lease, and Junyi Jessy Li. 
+<br /> In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+
+* [The Effects of Interactive AI Design on User Behavior: An Eye-tracking Study of Fact-checking COVID-19 Claims](https://arxiv.org/abs/2202.08901)
 <br /> Li Shi, Nilavra Bhattacharya, **Anubrata Das**, Matthew Lease, and Jacek Gwizdka. 
 <br /> In Proceedings of the 7th ACM SIGIR Conference on Human Information, Interaction and Retrieval (CHIIR), 2022.
 
