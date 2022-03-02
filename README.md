@@ -27,6 +27,9 @@ I am interested in the intersection of Natural Language Processing, Information 
 * Internship with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
 
 ## Talks
+* You Are What You Tweet: Profiling Users by Past Tweets to Improve Hate Speech Detection. [[Video]](https://youtu.be/kNP9BC3H0D4)
+  * Presented on behalf of Prateek Chaudhury and Matthew Lease at the [iConference 2022](https://ischools.org/Short-Research-Papers). 
+
 
 * ExFacto: An Explainable Fact-Checking Tool [[slides]](https://docs.google.com/presentation/d/1cjGGAtEwjrf8KXWgwJtOqoJGd3WoXjcUGzC49YL28v4/edit?usp=sharing) [[Video]](https://youtu.be/1Ltdoctl8cE)
    * The Knight Research Network (KRN) Demo Day at [Center for Informed Democracy & Social - cybersecurity (IDeaS)](https://www.cmu.edu/ideas-social-cybersecurity/events/krn-tool-demo.html) at Carnegie Mellon University, 10/13/2021
