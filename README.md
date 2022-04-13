@@ -12,9 +12,9 @@ I am interested in the intersection of Natural Language Processing, Information 
 
 ## News
 
-* Paper on Explaining Black-box NLP models with Case-based reasoning is accepted in [ACL 2022](https://www.2022.aclweb.org/)
+* Paper on Explaining Black-box NLP models with Case-based reasoning is accepted in [ACL 2022](https://www.2022.aclweb.org/). [[arxiv](https://arxiv.org/abs/2204.05426)] [[code](https://github.com/anubrata/ProtoTEx)]
 
-* Paper on Interactive AI for Fact-Checking is accepted in [ACM CHIIR 2022](https://ai.ur.de/chiir2022/)
+* Paper on Interactive AI for Fact-Checking is accepted in [ACM CHIIR 2022](https://ai.ur.de/chiir2022/)[[arxiv](https://arxiv.org/abs/2202.08901)]
 
 ## Talks
 * You Are What You Tweet: Profiling Users by Past Tweets to Improve Hate Speech Detection. [[Video]](https://youtu.be/kNP9BC3H0D4)
@@ -37,7 +37,7 @@ I am interested in the intersection of Natural Language Processing, Information 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 (\* denotes equal contribution)
 
-* [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/pdf/2204.05426.pdf)
+* [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/abs/2204.05426) [[code](https://github.com/anubrata/ProtoTEx)]
 <br /> **Anubrata Das**\*, Chitrank Gupta\*, Venelin Kovatchev, Matthew Lease, and Junyi Jessy Li. 
 <br /> In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
 
