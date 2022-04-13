@@ -35,7 +35,7 @@ I am interested in the intersection of Natural Language Processing, Information 
 ## Selected Publications
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
-(\* denotes equal contribution)
+(\* = equal contribution)
 
 * [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/abs/2204.05426) [[code](https://github.com/anubrata/ProtoTEx)]
 <br /> **Anubrata Das**\*, Chitrank Gupta\*, Venelin Kovatchev, Matthew Lease, and Junyi Jessy Li. 
