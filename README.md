@@ -29,8 +29,8 @@ I am interested in the intersection of Natural Language Processing, Information 
     * Invited talk - Amazon Human-in-the-loop (HILL) services team, 10/23/2020
     * [AAAI HCOMP 2020](https://www.humancomputation.com/)
 
-* CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking [Slides](https://docs.google.com/presentation/d/17Px--Lp50Os95QVfuH6auGzdaZReM-CWjuGnDJVQDG8/edit?usp=sharing)
-    *  Presented at the SIGIR 2019 Workshop Fairness, Accountability, Confidentiality, Transparency, and Safety in Information retrieval [FACTS-IR](https://fate-events.github.io/facts-ir/)
+* CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking [[Slides](https://docs.google.com/presentation/d/17Px--Lp50Os95QVfuH6auGzdaZReM-CWjuGnDJVQDG8/edit?usp=sharing)]
+    *  Presented at the SIGIR 2019 Workshop Fairness, Accountability, Confidentiality, Transparency, and Safety in Information retrieval [[FACTS-IR](https://fate-events.github.io/facts-ir/)]
 
 ## Selected Publications
 
