@@ -1,8 +1,8 @@
 
 
-I am a Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) at the University of Texas at Austin. My faculty advisor is [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/) and also closely work with [Dr. Jessy Li](https://jessyli.com/). I am a part of the [Information Retrieval and Crowdsourcing Lab](http://ir.ischool.utexas.edu/). Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). 
+I am a Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) at the University of Texas at Austin. My faculty advisor is [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/) and also closely work with [Dr. Jessy Li](https://jessyli.com/). I am a part of the [Information Retrieval and Crowdsourcing Lab](http://ir.ischool.utexas.edu/). During my PhD, I have also interned at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019 and worked with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). 
 
-I received my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
+Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). I received my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
 
 ## Research
 
@@ -16,20 +16,9 @@ I am interested in the intersection of Natural Language Processing, Information 
 
 * Paper on Interactive AI for Fact-Checking is accepted in [ACM CHIIR 2022](https://ai.ur.de/chiir2022/)
 
-* Paper on Content Moderation and Worker Well-Being is accepted in [AAAI HCOMP 2020](https://www.humancomputation.com/)
-
-* Paper on Communicating User Bias in Fact-Checking is accepted in SIGIR Workshop on [FACTS-IR](https://fate-events.github.io/facts-ir/)
-
-* SIGIR Forum Article on [research agenda in FACTS-IR](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/roegiest-2019-facts-ir.pdf)
-
-* Paper on bias in visual question answering datasets is accepted in [ASIS&T '19](https://www.asist.org/am19/)
-
-* Internship with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/) at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019. 
-
 ## Talks
 * You Are What You Tweet: Profiling Users by Past Tweets to Improve Hate Speech Detection. [[Video]](https://youtu.be/kNP9BC3H0D4)
   * Presented on behalf of Prateek Chaudhry and Matthew Lease at the [iConference 2022](https://ischools.org/Short-Research-Papers). 
-
 
 * ExFacto: An Explainable Fact-Checking Tool [[slides]](https://docs.google.com/presentation/d/1cjGGAtEwjrf8KXWgwJtOqoJGd3WoXjcUGzC49YL28v4/edit?usp=sharing) [[Video]](https://youtu.be/1Ltdoctl8cE)
    * The Knight Research Network (KRN) Demo Day at [Center for Informed Democracy & Social - cybersecurity (IDeaS)](https://www.cmu.edu/ideas-social-cybersecurity/events/krn-tool-demo.html) at Carnegie Mellon University, 10/13/2021
@@ -40,14 +29,15 @@ I am interested in the intersection of Natural Language Processing, Information 
     * Invited talk - Amazon Human-in-the-loop (HILL) services team, 10/23/2020
     * [AAAI HCOMP 2020](https://www.humancomputation.com/)
 
-
+* CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking [Slides](https://docs.google.com/presentation/d/17Px--Lp50Os95QVfuH6auGzdaZReM-CWjuGnDJVQDG8/edit?usp=sharing)
+    *  Presented at the SIGIR 2019 Workshop Fairness, Accountability, Confidentiality, Transparency, and Safety in Information retrieval [FACTS-IR](https://fate-events.github.io/facts-ir/)
 
 ## Selected Publications
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 (\* denotes equal contribution)
 
-* [ProtoTexNL: Explaining Model Decisions with Prototype Layers](https://utexas.box.com/v/das-acl-2022)
+* [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/pdf/2204.05426.pdf)
 <br /> **Anubrata Das**\*, Chitrank Gupta\*, Venelin Kovatchev, Matthew Lease, and Junyi Jessy Li. 
 <br /> In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
 
@@ -71,7 +61,6 @@ Full list of publications on: ([Google Scholar](https://scholar.google.com/citat
 * [CobWeb: A Research Prototype for Exploring User Bias in Political Fact-Checking](https://arxiv.org/pdf/1907.03718.pdf)
 <br />**Anubrata Das**, Kunjan Mehta, and Matthew Lease
 <br />[FACTS-IR Workshop](https://fate-events.github.io/facts-ir/), SIGIR 2019. [[slides](https://docs.google.com/presentation/d/17Px--Lp50Os95QVfuH6auGzdaZReM-CWjuGnDJVQDG8/edit?usp=sharing)]
-<br />*This is a working paper and we will update the paper with some details soon*
 
 * [A Conceptual Framework for Evaluating Fairness in Search](https://arxiv.org/pdf/1907.09328.pdf)
 <br />**Anubrata Das** and Matthew Lease
