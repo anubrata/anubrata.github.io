@@ -37,7 +37,7 @@ I am interested in the intersection of Natural Language Processing, Information 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 (\* = equal contribution)
 
-* [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/abs/2204.05426) [[code](https://github.com/anubrata/ProtoTEx)] |[[slides(https://www.icloud.com/keynote/035uBRbvCTUMxOCWnSyfAm5Ig#ProtoTEx_ACL_2022_-_Public)] | [[Talk](https://youtu.be/QvPdYlsJGrg)] | [[Poster](https://drive.google.com/file/d/10i69YGMfj2FxcPTu6NtUuJuhHsD3eIQC/view?usp=sharing)]
+* [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/abs/2204.05426) [[code](https://github.com/anubrata/ProtoTEx)] |[[slides](https://www.icloud.com/keynote/035uBRbvCTUMxOCWnSyfAm5Ig#ProtoTEx_ACL_2022_-_Public)] | [[Talk](https://youtu.be/QvPdYlsJGrg)] | [[Poster](https://drive.google.com/file/d/10i69YGMfj2FxcPTu6NtUuJuhHsD3eIQC/view?usp=sharing)]
 <br /> **Anubrata Das**\*, Chitrank Gupta\*, Venelin Kovatchev, Matthew Lease, and Junyi Jessy Li. 
 <br /> In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
 
