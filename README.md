@@ -1,6 +1,6 @@
 
 
-I am a Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) at the University of Texas at Austin. My faculty advisor is [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/) and also closely work with [Dr. Jessy Li](https://jessyli.com/). I am a part of the [Information Retrieval and Crowdsourcing Lab](http://ir.ischool.utexas.edu/). During my PhD, I have also interned at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019 and worked with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). 
+I am a Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) at the University of Texas at Austin. I am  co-advised by [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/) and [Dr. Jessy Li](https://jessyli.com/). I am a part of the [Information Retrieval and Crowdsourcing Lab](http://ir.ischool.utexas.edu/) and associated with the [UT NLP Gorup](https://www.nlp.utexas.edu/). During my PhD, I have also interned at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019 and worked with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). 
 
 Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). I received my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
 
@@ -8,7 +8,7 @@ Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft]
 
 ![Research Intersets](/assets/images/Research.png)
 
-I am interested in the intersection of Natural Language Processing, Information Access, and Human-Computer Interaction. I research in building algorithms and tools that facilitate human-AI partnership. My primary research focuses is based on the broad questions: How explainable AI can help in the human decision-making process where the AI is not perfect? How do we collect data, build such systems and evaluate them? The application area I am interested in is moderating harmful content online. Such harm includes but not limited to misinformation, hate speech, disruptive or obscene content, and unfairness in information access algorithms.
+I am interested in the intersection of Natural Language Processing and Human-Computer Interaction. I research in building algorithms and tools that facilitate human-AI partnership. My primary research focuses is based on the broad questions: How explainable AI can help in the human decision-making process where the AI is not perfect? How do we collect data, build such systems and evaluate them? The application area I am interested in is moderating harmful content online. Such harm includes but not limited to misinformation, hate speech, disruptive or obscene content, and unfairness in information access algorithms.
 
 ## News
 
