@@ -45,9 +45,9 @@ Full list of publications on: ([Google Scholar](https://scholar.google.com/citat
 <br /> Li Shi, Nilavra Bhattacharya, **Anubrata Das**, Matthew Lease, and Jacek Gwizdka. 
 <br /> In Proceedings of the 7th ACM SIGIR Conference on Human Information, Interaction and Retrieval (CHIIR), 2022.
 
-* [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779)
+* [Fairness in Information Access Systems](https://www.nowpublishers.com/article/Details/INR-079)
 <br />Michael D. Ekstrand, **Anubrata Das**, Robin Bruke, Fernando Diaz
-<br />Under review for [Foundations and Trends in Information Retrieval](https://www.nowpublishers.com/INR), 2021
+<br />[Foundations and Trends in Information Retrieval](https://www.nowpublishers.com/INR), 2022
 
 
 * [Fast, Accurate, and Healthier: Interactive Blurring Helps Moderators Reduce Exposure to Harmful Content](https://www.ischool.utexas.edu/~ml/papers/das_hcomp20.pdf)
