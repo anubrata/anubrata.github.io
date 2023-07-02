@@ -12,7 +12,7 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 
 ## News
 
-* Paper on Human-Centered NLP for Fact-Checking is published in a special issue of the IPM (Impact Factor: 6.222) journal.
+* Paper on Human-Centered NLP for Fact-Checking is published in a special issue of the IPM (Impact Factor: 6.222) journal [[Arxiv]] (https://arxiv.org/abs/2301.03056)
 
 * Paper on Explaining Black-box NLP models with Case-based reasoning is accepted in [ACL 2022](https://www.2022.aclweb.org/). [[arxiv](https://arxiv.org/abs/2204.05426)] [[code](https://github.com/anubrata/ProtoTEx)]
 
