@@ -21,6 +21,15 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 * Paper on Interactive AI for Fact-Checking is accepted in [ACM CHIIR 2022](https://ai.ur.de/chiir2022/)[[arxiv](https://arxiv.org/abs/2202.08901)]
 
 ## Talks
+* ProtoTEx: Explaining Model Decisions with Prototype Tensors [Video][https://www.youtube.com/watch?v=QvPdYlsJGrg]
+  * [Explainable AI Group](https://twitter.com/XAI_Research), 09/29/2022
+  * Research Colloquium, UT Austin, iSchool, 09/20/2022
+  * iSchools European Doctoral Seminar Series, 09/16/2022
+  * Amazon Science Clarify Team, 05/17/2022
+  * NEC Laboratories Europe, 06/09/2022
+  
+
+
 * You Are What You Tweet: Profiling Users by Past Tweets to Improve Hate Speech Detection. [[Video]](https://youtu.be/kNP9BC3H0D4)
   * Presented on behalf of Prateek Chaudhry and Matthew Lease at the [iConference 2022](https://ischools.org/Short-Research-Papers). 
 
