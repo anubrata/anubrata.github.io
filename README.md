@@ -17,9 +17,9 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 
 ## News
 
-* I will be working as research intern at Cisco Responsible AI research team in Fall 2023
+* I spent Fall 2023 as a research intern at Cisco Responsible AI research team and worked on evaluating interpretable NLP models
 
-* I will be spending the summer of 2023 at the Amazon Alexa Responsible AI team and I will continue to work on explainable NLP
+* I spent Summer 2023 at the Amazon Alexa Responsible AI team and worked on developing interpretable NLP
 
 * Paper on Human-Centered NLP for Fact-Checking is published in a special issue of the IPM (Impact Factor: 6.222) journal [[Arxiv]](https://arxiv.org/abs/2301.03056)
 
