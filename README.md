@@ -1,16 +1,23 @@
 
-
 I am a Ph.D. student at the [School of Information](https://www.ischool.utexas.edu/) at the University of Texas at Austin. I am  co-advised by [Dr. Matt Lease](https://www.ischool.utexas.edu/~ml/) and [Dr. Jessy Li](https://jessyli.com/). I am a part of the [Laboratory for Artificial Intelligence and Human-Centered Computing (AI&HCC)](https://ai.ischool.utexas.edu/) and associated with the [UT NLP Group](https://www.nlp.utexas.edu/). During my PhD, I have also interned at [The Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) in summer 2019 and worked with [Dr. Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). 
 
 Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). I received my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
 
+**I am on the job market looking for academic or industry postdoc positions starting fall 2024.**
+
 ## Research
 
-![Research Intersets](/assets/images/Research.png)
+I am interested in the intersection of Natural Language Processing and Human-Computer Interaction, specifically focused on developing NLP technologies that complement the capabilities of human experts. My work centers on three key thrusts of research: 
 
-I am interested in the intersection of Natural Language Processing and Human-Computer Interaction. I research in building algorithms and tools that facilitate human-AI partnership. My primary research focuses is based on the broad questions: How explainable AI can help in the human decision-making process where the AI is not perfect? How do we collect data, build such systems and evaluate them? The application area I am interested in is moderating harmful content online. Such harm includes but not limited to misinformation, hate speech, disruptive or obscene content, and unfairness in information access algorithms.
+* **Human-Centered NLP**: How can we identify the needs of the stakeholders for the practical adoption of NLP applications? How can we evaluate if NLP applications are meeting stakeholder needs? How can research in human-centered NLP help push forward basic NLP research? How can we align NLP models to complement human experts in critical fields effectively? [[Preprint]](https://arxiv.org/abs/2308.07213) [[IPM Journal]](https://arxiv.org/abs/2301.03056)
+
+* **Interpretable NLP Models**: How can we build NLP models to help stakeholders understand its inner workings? How can we effectively evaluate interpretable models? How can we use insights from interpretable models to steer generative model outputs? How can we build interpretable models to help promote responsible and productive human-AI partnerships? [[ACL'22]](https://aclanthology.org/2022.acl-long.213/) [[IPM Journal]](https://arxiv.org/abs/2301.03056)
+
+* **Responsible Language Technologies**: How can we detect and mitigate potential harms caused by language technonologies? How can we make these models behave responisbly and not perpetuate societal biases? How can we protect workers who contribute to data-collection for AI? [[FnTIR Journal]](https://www.nowpublishers.com/article/Details/INR-079) [[HCOMP'20]](https://ojs.aaai.org/index.php/HCOMP/article/view/7461) [[ASIS&T'19]](https://doi.org/10.1002/pra2.7)
 
 ## News
+
+* I will be working as research intern at Cisco Responsible AI research team in Fall 2023
 
 * I will be spending the summer of 2023 at the Amazon Alexa Responsible AI team and I will continue to work on explainable NLP
 
@@ -52,6 +59,10 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
 (\* = equal contribution)
+
+* [Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI](https://arxiv.org/pdf/2308.07213.pdf)
+<br/> Houjiang Liu\*, **Das, Anubrata\***, Alexander Boltz\*, Didi Zhou, Daisy Pinaroc, Matthew Lease, Min Kyung Lee
+<br/> Arxiv Preprint
 
 * [The state of human-centered NLP technology for fact-checking](https://doi.org/10.1016/j.ipm.2022.103219) [[Arxiv]](https://arxiv.org/abs/2301.03056)
 <br/>**Das, Anubrata**, Houjiang Liu, Venelin Kovatchev, and Matthew Lease. 
