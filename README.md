@@ -61,11 +61,11 @@ Full list of publications on: ([Google Scholar](https://scholar.google.com/citat
 (\* = equal contribution)
 
 * [Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI](https://arxiv.org/pdf/2308.07213.pdf)
-<br/> Houjiang Liu\*, **Das, Anubrata\***, Alexander Boltz\*, Didi Zhou, Daisy Pinaroc, Matthew Lease, Min Kyung Lee
+<br/> Houjiang Liu\*, **Anubrata Das\***, Alexander Boltz\*, Didi Zhou, Daisy Pinaroc, Matthew Lease, Min Kyung Lee
 <br/> Arxiv Preprint
 
 * [The state of human-centered NLP technology for fact-checking](https://doi.org/10.1016/j.ipm.2022.103219) [[Arxiv]](https://arxiv.org/abs/2301.03056)
-<br/>**Das, Anubrata**, Houjiang Liu, Venelin Kovatchev, and Matthew Lease. 
+<br/>**Anubrata Das**, Houjiang Liu, Venelin Kovatchev, and Matthew Lease. 
 <br/>Information processing & management 60, no. 2 (2023): 103219.
 
 * [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/abs/2204.05426) [[code](https://github.com/anubrata/ProtoTEx)] |[[slides](https://utexas.app.box.com/v/das-acl22-slides)] | [[Talk](https://youtu.be/QvPdYlsJGrg)] | [[Poster](https://drive.google.com/file/d/10i69YGMfj2FxcPTu6NtUuJuhHsD3eIQC/view?usp=sharing)]
