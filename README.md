@@ -3,7 +3,7 @@ I am a Ph.D. candidate at the [School of Information](https://www.ischool.utexas
 
 Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). I received my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
 
-**I am on the job market looking for academic or industry postdoc positions starting fall 2024.**
+**I am on the job market looking for academic or industry postdoc positions for fall 2024.**
 
 ## Research
 
