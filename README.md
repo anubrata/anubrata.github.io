@@ -57,7 +57,7 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 
 ## Selected Publications
 
-Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ))
+Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ&view_op=list_works&sortby=pubdate))
 (\* = equal contribution)
 
 * [Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI](https://arxiv.org/pdf/2308.07213.pdf)
