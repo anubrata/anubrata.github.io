@@ -68,6 +68,10 @@ Full list of publications on: ([Google Scholar](https://scholar.google.com/citat
 <br/>**Anubrata Das**, Houjiang Liu, Venelin Kovatchev, and Matthew Lease. 
 <br/>Information processing & management 60, no. 2 (2023): 103219.
 
+* [True or false? Cognitive load when reading COVID-19 news headlines: an eye-tracking study] [[Open Access]](https://doi.org/10.1145/3576840.3578290)
+<br/> Li Shi, Nilavra Bhattacharya, **Anubrata Das**, and Jacek Gwizdka.
+<br /> In Proceedings of the 8th ACM SIGIR Conference on Human Information, Interaction and Retrieval (CHIIR), 2023.
+
 * [ProtoTex: Explaining Model Decisions with Prototype Tensors](https://arxiv.org/abs/2204.05426) [[code](https://github.com/anubrata/ProtoTEx)] |[[slides](https://utexas.app.box.com/v/das-acl22-slides)] | [[Talk](https://youtu.be/QvPdYlsJGrg)] | [[Poster](https://drive.google.com/file/d/10i69YGMfj2FxcPTu6NtUuJuhHsD3eIQC/view?usp=sharing)]
 <br/> **Anubrata Das**\*, Chitrank Gupta\*, Venelin Kovatchev, Matthew Lease, and Junyi Jessy Li. 
 <br/> In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
