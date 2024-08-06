@@ -68,7 +68,7 @@ Full list of publications on: ([Google Scholar](https://scholar.google.com/citat
 <br/>**Anubrata Das**, Houjiang Liu, Venelin Kovatchev, and Matthew Lease. 
 <br/>Information processing & management 60, no. 2 (2023): 103219.
 
-* [True or false? Cognitive load when reading COVID-19 news headlines: an eye-tracking study] [[Open Access]](https://doi.org/10.1145/3576840.3578290)
+* [True or false? Cognitive load when reading COVID-19 news headlines: an eye-tracking study](https://doi.org/10.1145/3576840.3578290)
 <br/> Li Shi, Nilavra Bhattacharya, **Anubrata Das**, and Jacek Gwizdka.
 <br /> In Proceedings of the 8th ACM SIGIR Conference on Human Information, Interaction and Retrieval (CHIIR), 2023.
 
