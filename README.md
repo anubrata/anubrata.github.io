@@ -3,7 +3,7 @@ I am a Ph.D. candidate at the [School of Information](https://www.ischool.utexas
 
 Before joining the Ph.D. program, I worked as a Software Engineer in [Microsoft](https://www.microsoft.com/en-in/msidc/default.aspx) and as a Decision Scientist in [Mu Sigma](https://www.mu-sigma.com/). I received my Bachelor of Engineering Degree in Computer Science and Technology from [IIEST, Shibpur](http://www.iiests.ac.in/index.php).
 
-**I am on the job market looking for academic or industry postdoc positions for fall 2024.**
+
 
 ## Research
 
@@ -16,6 +16,8 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 * **Responsible Language Technologies**: How can we detect and mitigate potential harms caused by language technonologies? How can we make these models behave responisbly and not perpetuate societal biases? How can we protect workers who contribute to data-collection for AI? [[FnTIR Journal]](https://www.nowpublishers.com/article/Details/INR-079) [[HCOMP'20]](https://ojs.aaai.org/index.php/HCOMP/article/view/7461) [[ASIS&T'19]](https://doi.org/10.1002/pra2.7)
 
 ## News
+
+* Our co-design paper on Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI has been awarded an **honorable mention (top 3%)** at CSCW 2024 [[Arxiv]](https://arxiv.org/pdf/2308.07213.pdf)
 
 * I spent Fall 2023 as a research intern at Cisco Responsible AI research team and worked on evaluating interpretable NLP models
 
@@ -60,9 +62,9 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ&view_op=list_works&sortby=pubdate))
 (\* = equal contribution)
 
-* [Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI](https://arxiv.org/pdf/2308.07213.pdf)
+* 🏅 [Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI](https://arxiv.org/pdf/2308.07213.pdf)
 <br/> Houjiang Liu\*, **Anubrata Das\***, Alexander Boltz\*, Didi Zhou, Daisy Pinaroc, Matthew Lease, Min Kyung Lee
-<br/> Arxiv Preprint
+<br/> CSCW 2024, **Best paper honorable mention (top 3%)**
 
 * [The state of human-centered NLP technology for fact-checking](https://doi.org/10.1016/j.ipm.2022.103219) [[Arxiv]](https://arxiv.org/abs/2301.03056)
 <br/>**Anubrata Das**, Houjiang Liu, Venelin Kovatchev, and Matthew Lease. 
