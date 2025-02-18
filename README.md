@@ -63,6 +63,9 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ&view_op=list_works&sortby=pubdate))
 (\* = equal contribution)
+* [On localizing and deleting toxic memories in large language models](https://www.amazon.science/publications/on-localizing-and-deleting-toxic-memories-in-large-language-models)
+<br/> **Anubrata Das**, Manoj Kumar, Ninareh Mehrabi, Anil Ramakrishna, Anna Rumshisky, Kai-Wei Chang, Aram Galstyan, Morteza Ziyadi, Rahul Gupta
+<br/> NAACL 2025 Findings
 
 * 🏅 [Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI](https://arxiv.org/pdf/2308.07213.pdf)
 <br/> Houjiang Liu\*, **Anubrata Das\***, Alexander Boltz\*, Didi Zhou, Daisy Pinaroc, Matthew Lease, Min Kyung Lee
