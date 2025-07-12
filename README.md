@@ -66,6 +66,11 @@ Systems Security, Privacy, and Quality_ (July, 2025)
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ&view_op=list_works&sortby=pubdate))
 (\* = equal contribution)
+
+* [Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](https://arxiv.org/abs/2506.00653)
+<br/> Femi Bello, **Anubrata Das**, Fanzhi Zeng, Fangcong Yin, Liu Leqi
+
+
 * [On localizing and deleting toxic memories in large language models](https://www.amazon.science/publications/on-localizing-and-deleting-toxic-memories-in-large-language-models)
 <br/> **Anubrata Das**, Manoj Kumar, Ninareh Mehrabi, Anil Ramakrishna, Anna Rumshisky, Kai-Wei Chang, Aram Galstyan, Morteza Ziyadi, Rahul Gupta
 <br/> NAACL 2025 Findings
