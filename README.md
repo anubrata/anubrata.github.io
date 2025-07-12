@@ -17,6 +17,9 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 
 ## News
 
+* Our ongoing work on Machine Unlearning in Clinical LLMs is invited for a presentation at the MISQ Special Issue workshop on _Artificial Intelligence-Information Assurance Nexus: The Future of Information
+Systems Security, Privacy, and Quality_ (July, 2025)
+
 * Our work on localizing and deleting toxic beliefs in autoregressive language models is accepted at **NAACL 2025 findings**. Arxiv is  coming soon.  
 
 * Our co-design paper on Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI has been awarded an **honorable mention (top 3%)** at CSCW 2024 [[Arxiv]](https://arxiv.org/pdf/2308.07213.pdf)
