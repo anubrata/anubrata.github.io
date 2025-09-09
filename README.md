@@ -16,6 +16,7 @@ I am interested in the intersection of Natural Language Processing and Human-Com
 * **Responsible Language Technologies**: How can we detect and mitigate potential harms caused by language technonologies? How can we make these models behave responisbly and not perpetuate societal biases? How can we protect workers who contribute to data-collection for AI? [[FnTIR Journal]](https://www.nowpublishers.com/article/Details/INR-079) [[HCOMP'20]](https://ojs.aaai.org/index.php/HCOMP/article/view/7461) [[ASIS&T'19]](https://doi.org/10.1002/pra2.7)
 
 ## News
+* 🏅I will be a part of the [Rising Star in Data Science 2025 cohort](https://datascience.stanford.edu/programs/rising-stars-data-science)
 
 * Our ongoing work on Machine Unlearning in Clinical LLMs is invited for a presentation at the MISQ Special Issue workshop on _Artificial Intelligence-Information Assurance Nexus: The Future of Information
 Systems Security, Privacy, and Quality_ (July, 2025)
