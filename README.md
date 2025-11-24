@@ -96,7 +96,7 @@ Full list of publications on: ([Google Scholar](https://scholar.google.com/citat
 <br /> Li Shi, Nilavra Bhattacharya, **Anubrata Das**, Matthew Lease, and Jacek Gwizdka. 
 <br /> In Proceedings of the 7th ACM SIGIR Conference on Human Information, Interaction and Retrieval (CHIIR), 2022.
 
-* [Fairness in Information Access Systems](https://www.nowpublishers.com/article/Details/INR-079)
+* [Fairness in Information Access Systems](https://www.nowpublishers.com/article/Details/INR-079) [preprint](https://md.ekstrandom.net/pubs/fair-info-access.pdf)
 <br />Michael D. Ekstrand, **Anubrata Das**, Robin Bruke, Fernando Diaz
 <br />[Foundations and Trends in Information Retrieval](https://www.nowpublishers.com/INR), 2022
 
