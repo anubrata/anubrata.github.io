@@ -37,23 +37,20 @@ Systems Security, Privacy, and Quality_ (July, 2025)
 
 ## Talks
 * Towards Trustworthy AI Through Actionable and Human-Centered Interpretability
- * Fundamental AI Research (FAIR) at Meta, 01/12/2026
- * Schmidt Sciences, 04/08/2026
+  * Schmidt Sciences, 04/08/2026
+  * Fundamental AI Research (FAIR) at Meta, 01/12/2026
+  
+
 * Actionable interpretability: Towards Trustworthy LLMs
- * Autodesk Research, 11/24/2025
+  * Autodesk Research, 11/24/2025
+
 * Information Assurance in Clinical LLMs through Unlearning
- * MISQ Workshop on Artificial Intelligence-Information Assurance Nexus: The Future of Information
-Systems Security, Privacy, and Quality, 07/11/2025
+  * MISQ Workshop on Artificial Intelligence-Information Assurance Nexus: The Future of Information Systems Security, Privacy, and Quality, 07/11/2025
+
 * Developing Language Technologies to Complement Human Capabilities
- * Microsoft Research FATE Group, New York City, 02/16/2024
- * McCombs School of Business, University of Texas at Austin, 02/12/2024Fundamental AI Research (FAIR) at Meta, 01/12/2026
-* Schmidt Sciences, 04/08/2026
-Information Assurance in Clinical LLMs through Unlearning
-• MISQ Workshop on Artificial Intelligence-Information Assurance Nexus: The Future of Information
-Systems Security, Privacy, and Quality, 07/11/2025
-Developing Language Technologies to Complement Human Capabilities
-• Microsoft Research FATE Group, New York City, 02/16/2024
-• McCombs School of Business, University of Texas at Austin, 02/12/2024
+  * Microsoft Research FATE Group, New York City, 02/16/2024
+  * McCombs School of Business, University of Texas at Austin, 02/12/2024Fundamental AI Research (FAIR) at Meta, 01/12/2026
+
 * The state of human-centered NLP technology for fact-checking
   * Invited talk at the [Information Processing & Management Conference 2022](https://www.elsevier.com/events/conferences/information-processing-and-management-conference) for our journal [paper](https://arxiv.org/abs/2301.03056)
 
@@ -83,9 +80,6 @@ Developing Language Technologies to Complement Human Capabilities
 
 Full list of publications on: ([Google Scholar](https://scholar.google.com/citations?hl=en&user=zVcu-J4AAAAJ&view_op=list_works&sortby=pubdate))
 (\* = equal contribution)
-
-* [Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](https://arxiv.org/abs/2506.00653)
-<br/> Femi Bello, **Anubrata Das**, Fanzhi Zeng, Fangcong Yin, Liu Leqi
 
 
 * [On localizing and deleting toxic memories in large language models](https://www.amazon.science/publications/on-localizing-and-deleting-toxic-memories-in-large-language-models)
