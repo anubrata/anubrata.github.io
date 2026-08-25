@@ -36,10 +36,26 @@ Systems Security, Privacy, and Quality_ (July, 2025)
 * Paper on Interactive AI for Fact-Checking is accepted in [ACM CHIIR 2022](https://ai.ur.de/chiir2022/)[[arxiv](https://arxiv.org/abs/2202.08901)]
 
 ## Talks
-
+* Towards Trustworthy AI Through Actionable and Human-Centered Interpretability
+ * Fundamental AI Research (FAIR) at Meta, 01/12/2026
+ * Schmidt Sciences, 04/08/2026
+* Actionable interpretability: Towards Trustworthy LLMs
+ * Autodesk Research, 11/24/2025
+* Information Assurance in Clinical LLMs through Unlearning
+ * MISQ Workshop on Artificial Intelligence-Information Assurance Nexus: The Future of Information
+Systems Security, Privacy, and Quality, 07/11/2025
+* Developing Language Technologies to Complement Human Capabilities
+ * Microsoft Research FATE Group, New York City, 02/16/2024
+ * McCombs School of Business, University of Texas at Austin, 02/12/2024Fundamental AI Research (FAIR) at Meta, 01/12/2026
+* Schmidt Sciences, 04/08/2026
+Information Assurance in Clinical LLMs through Unlearning
+• MISQ Workshop on Artificial Intelligence-Information Assurance Nexus: The Future of Information
+Systems Security, Privacy, and Quality, 07/11/2025
+Developing Language Technologies to Complement Human Capabilities
+• Microsoft Research FATE Group, New York City, 02/16/2024
+• McCombs School of Business, University of Texas at Austin, 02/12/2024
 * The state of human-centered NLP technology for fact-checking
   * Invited talk at the [Information Processing & Management Conference 2022](https://www.elsevier.com/events/conferences/information-processing-and-management-conference) for our journal [paper](https://arxiv.org/abs/2301.03056)
-
 
 * ProtoTEx: Explaining Model Decisions with Prototype Tensors [[Video]](https://www.youtube.com/watch?v=QvPdYlsJGrg)
   * [Explainable AI Group](https://twitter.com/XAI_Research), 09/29/2022
